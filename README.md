@@ -57,8 +57,7 @@ Outside tech, I’m deeply interested in **astronomy, physics, and music**, whic
 ## 🎯 Currently Exploring
 
 - Machine learning in real-world applications  
-- Combining business logic with AI systems  
-- Applying for research-based Master’s programs in AI/ML
+- Combining business logic with AI systems.
 
 ---
 
