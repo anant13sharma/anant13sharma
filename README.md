@@ -18,7 +18,6 @@
 ## 🧠 About Me
 
 🎓 **Software Engineer & Full-Stack Developer**  
-📍 Based in **Canada**, blending **technology with business insight**
 
 - 📚 **B.Tech in CSE**
 - 📘 **Advanced Diploma in International Business** (Red River College Polytechnic, Canada)
