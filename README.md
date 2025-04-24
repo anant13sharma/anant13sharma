@@ -19,12 +19,12 @@
 
 🎓 **Software Engineer & Full-Stack Developer**  
 
-- 📚 **B.Tech in CSE**
-- 📘 **Advanced Diploma in International Business** (Red River College Polytechnic, Canada)
-- 💼 2+ years of real-world experience crafting **user-focused digital experiences**
-- 🚀 Exploring **Machine Learning & AI**
+- **B.Tech in CSE**
+- **Advanced Diploma in International Business** (Red River College Polytechnic, Canada)
+- 2+ years of real-world experience crafting **user-focused digital experiences**
+- Exploring **Machine Learning & AI**
 
-> “Code with logic, scale with empathy, build with heart.”
+> “Code - Logic - Scale - Empathy”
 
 ---
 
