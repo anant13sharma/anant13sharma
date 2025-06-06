@@ -21,7 +21,6 @@
 
 - **B.Tech in CSE**
 - **Advanced Diploma in International Business** (Red River College Polytechnic, Canada)
-- 2+ years of real-world experience crafting **user-focused digital experiences**
 - Exploring **Machine Learning & AI**
 
 > “Code - Logic - Scale - Empathy”
