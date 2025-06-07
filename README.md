@@ -27,4 +27,4 @@ Frontend:       HTML, CSS, Bootstrap, React, React Native
 Backend:        Node.js, Express, MongoDB
 Data/ML:        Pandas, NumPy, Matplotlib, Seaborn, TensorFlow (beginner)
 Cloud/DevOps:   Firebase, Google Cloud, Railway
-Tools:          Git, VS Code, Postman, Mocha (basic)
+Tools:          Git, VS Code, Postman
