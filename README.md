@@ -12,7 +12,7 @@
 
  **Software Engineer | Full-Stack Developer**
 
-- Bachelor of Technology in Computer Science and Engineering  
+- Bachelor of Technology in the branch of Computer Science and Engineering
 - Advanced Diploma in International Business (Red River College Polytechnic, Canada) 
 
 ---
