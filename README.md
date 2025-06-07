@@ -15,8 +15,7 @@
 🎓 **Software Engineer | Full-Stack Developer**
 
 - Bachelor of Technology in Computer Science and Engineering  
-- Advanced Diploma in International Business (Red River College Polytechnic, Canada)  
-- Currently exploring web development and machine learning
+- Advanced Diploma in International Business (Red River College Polytechnic, Canada) 
 
 ---
 
