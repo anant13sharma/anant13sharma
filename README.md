@@ -8,16 +8,16 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-🎓 **Software Engineer | Full-Stack Developer**
+ **Software Engineer | Full-Stack Developer**
 
 - Bachelor of Technology in Computer Science and Engineering  
 - Advanced Diploma in International Business (Red River College Polytechnic, Canada) 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ```yaml
 Languages:      C++, Python, JavaScript, TypeScript, SQL
